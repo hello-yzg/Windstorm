@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-46e20e17","path":"/tags/%E3%80%8Amingchaonaxieshier%E3%80%8B/1/","title":"","lang":"zh-CN","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{e as data};
